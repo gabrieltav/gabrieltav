@@ -1,3 +1,4 @@
+
 # Hey 👋
 
 My name is Gabriel Tavares 👦
@@ -9,5 +10,5 @@ I'm passionate about solving problems and learning. Always open to new challenge
 ## 🌍 "Impossible Is My Specialty" ❤️🧠
 
 - 📍 From AM living in Manaus
-- 
+
 Reach me out 👇🏼

@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey 👋
 
-<!--
-**gabrieltav/gabrieltav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Gabriel Tavares 👦
+I'm a student of Software Engineering 💻
+I'm from Brazil 🇧🇷
 
-Here are some ideas to get you started:
+I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 "Impossible Is My Specialty" ❤️🧠
+
+- 📍 From AM living in Manaus
+- 
+Reach me out 👇🏼

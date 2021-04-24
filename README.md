@@ -1,4 +1,4 @@
-# Hey 👋, My name is Gabriel Tavares 👦
+# Hey 👋! My name is Gabriel Tavares 👦
 
 I'm a student of Software Engineering 💻
 I'm from Brazil

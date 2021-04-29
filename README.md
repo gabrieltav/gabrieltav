@@ -7,6 +7,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 ### "Impossible Is My Specialty" ❤️
 
+Follow me: https://app.rocketseat.com.br/me/gabriel-tav
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-tavares-9b6833210)](https://www.linkedin.com/in/gabriel-tavares-9b6833210)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gabriell.tav/)](https://www.instagram.com/gabriell.tav/) 

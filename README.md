@@ -1,13 +1,30 @@
-# Hello 👋! My name is Gabriel Tavares 👦
-
-I'm a student of Software Engineering 💻
-I'm from Brazil
-
-I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
-
-### "Impossible Is My Specialty" ❤️
-
-Follow me: https://app.rocketseat.com.br/me/gabriel-tav
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-tavares-9b6833210)](https://www.linkedin.com/in/gabriel-tavares-9b6833210)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gabriell.tav/)](https://www.instagram.com/gabriell.tav/) 
+## Oi, eu sou o Gabriel Tavares
+- Estudante de Engenharia de Software
+- Brasileiro
+#### "Impossible Is My Specialty" ❤️
+ <div>
+  <a href="https://github.com/gabrieltav">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieltav&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltav&layout=compact&langs_count=7&theme=algolia"/>
+</div>
+  
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Gabs-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Gabs-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Gabs-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Gabs-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gabs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gabs-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+</div>
+  
+  ##
+  
+  <div>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/invite/rh7JtTGnKk" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:gabrieltavares.ufam@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabrielltav/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://api.whatsapp.com/send?phone=5592992019607&text=Gabriel%20Tavares" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  </div>

@@ -4,8 +4,8 @@
 #### "Impossible Is My Specialty" ❤️
  <div>
   <a href="https://github.com/gabrieltav">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieltav&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltav&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrieltav&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltav&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
   
@@ -24,9 +24,8 @@
   <div>
   <a href="https://www.instagram.com/gabriell.tav/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/invite/rh7JtTGnKk" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "gabrieltavares.ufam@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabrieltavares.ufam@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielltav/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://api.whatsapp.com/send?phone=5592992019607&text=Gabriel%20Tavares" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
    
    ![Snake animation](https://github.com/gabrieltav/gabrieltav/blob/output/github-contribution-grid-snake.svg)
    

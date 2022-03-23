@@ -1,4 +1,7 @@
 ### 🛠 About me
+
+#### "Impossible Is My Specialty" ❤️
+
 <p>
   <em>
    Student of Software Engineering at the Institute of <a href="https://icet.ufam.edu.br/"> <b> Exact Sciences and Technology - ICET / UFAM.</b></a><br>
@@ -7,8 +10,6 @@
 2. <b>Backend Development</b>;<br> 
 2. <b>Web Development</b>;<br>
 </p>
-
-#### "Impossible Is My Specialty" ❤️
 
 ### 👥 Connect with me:
 <p align="left">
